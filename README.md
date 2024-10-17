@@ -1,7 +1,6 @@
 # Deep-Learning-2-Lab
 Jupyter Notebooks of Deep Learning topics
 
-Here’s a brief descr
 
 1. **Bayesian Network**: A probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph. It allows for reasoning and inference under uncertainty.
 
